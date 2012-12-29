@@ -5,7 +5,7 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'username',
+		'login' => 'kpowell',
 		'password' => 'password',
 		'database' => 'cake',
 	);
